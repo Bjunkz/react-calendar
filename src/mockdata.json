@@ -1,0 +1,15 @@
+{
+  "toDoList" : [
+    {
+    "deadline": "2021-09-10T00:01",
+    "assignement": "städa lägenheten",
+    "done": false
+    },
+    {
+    "deadline": "2021-09-11T00:01",
+    "assignement": "handla mat",
+    "done": true
+    }
+
+  ]
+}
